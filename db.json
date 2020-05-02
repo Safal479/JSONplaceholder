@@ -14,10 +14,10 @@
     }
   ],
   "categories": [
-    Food,
-    Drinks,
-    Tools,
-    Others
+    "Food",
+    "Drinks",
+    "Tools",
+    "Others"
   ],
   "transactions": [
      {
@@ -39,19 +39,19 @@
    "staff": [
      {
       "id": 1,
-      "name": Amrit
+      "name": "Amrit"
      },
      {
       "id": 2,
-      "name": Dinesh
+      "name": "Dinesh"
      },
      {
       "id": 3,
-      "name": Pradeep
+      "name": "Pradeep"
      },
      {
       "id": 4,
-      "name": Safal
+      "name": "Safal"
      }
    ],
   "profile": {
