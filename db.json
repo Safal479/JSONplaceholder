@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "itemNo": 1,
+      "item": "abcd",
+      "price": 24,
+      "stock": 45
+    },
+    {
+      "itemNo": 2,
+      "item": "asfda",
+      "price": 32,
+      "stock": 4
+    }
+  ],
+  "categories": [
+    Food,
+    Drinks,
+    Tools,
+    Others
+  ],
+  "transactions": [
+     {
+      "day": "5/2/2020",
+      "num": 23,
+      "total": 4010
+     },
+     {
+      "day": "5/1/2020",
+      "num": 2,
+      "total": 5110
+     },
+     {
+      "day": "4/29/2020",
+      "num": 22,
+      "total": 5466
+     }
+   ],
+   "staff": [
+     {
+      "id": 1,
+      "name": Amrit
+     },
+     {
+      "id": 2,
+      "name": Dinesh
+     },
+     {
+      "id": 3,
+      "name": Pradeep
+     },
+     {
+      "id": 4,
+      "name": Safal
+     }
+   ],
+  "profile": {
+    "name": "typicode"
+  }
+}
