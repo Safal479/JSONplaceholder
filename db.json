@@ -69,19 +69,27 @@
    "staff": [
      {
       "id": 1,
-      "name": "Amrit"
+      "name": "Amrit",
+      "status": "Present",
+      "role": "Accountant"
      },
      {
       "id": 2,
-      "name": "Dinesh"
+      "name": "Dinesh",
+      "status": "Present",
+      "role": "Accountant"
      },
      {
       "id": 3,
-      "name": "Pradeep"
+      "name": "Pradeep",
+      "status": "Present",
+      "role": "Accountant"
      },
      {
       "id": 4,
-      "name": "Safal"
+      "name": "Safal",
+      "status": "Present",
+      "role": "Accountant"
      }
    ],
   "profile": {
