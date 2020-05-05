@@ -2,16 +2,34 @@
   "products": [
     {
       "itemNo": 1,
-      "item": "abcd",
+      "item": "cake",
       "price": 24,
       "stock": 45
     },
     {
       "itemNo": 2,
-      "item": "asfda",
+      "item": "icecream",
       "price": 32,
       "stock": 4
-    }
+    },
+    {
+      "itemNo": 3,
+      "item": "apples",
+      "price": 24,
+      "stock": 45
+    },
+    {
+      "itemNo": 4,
+      "item": "frooti",
+      "price": 24,
+      "stock": 45
+    },
+    {
+      "itemNo": 5,
+      "item": "coke",
+      "price": 24,
+      "stock": 45
+    },
   ],
   "categories": [
     "Food",
