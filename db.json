@@ -33,20 +33,20 @@
   ],
   "categories": [
     {
-      name: "Food",
-      number: 45
+      "name": "Food",
+      "number": 45
     },
     {
-      name: "Drinks",
-      number: 75
+      "name": "Drinks",
+      "number": 75
     },
     {
-      name: "Tools",
-      number: 24
+      "name": "Tools",
+      "number": 24
     },
     {
-      name: "Others",
-      number: 126
+      "name": "Others",
+      "number": 126
     }
   ],
   "transactions": [
